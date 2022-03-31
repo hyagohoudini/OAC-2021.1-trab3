@@ -133,7 +133,7 @@ int neighborhood (int a0, int a1, int* a2){
 }
 ```
 ## Saída do programa no Bitmap:
-- [Display Result](https://imgur.com/a/bHxXf2S)
+ ![Display Result](./RARS_bitmap_final_display.gif)
 
 ## Indicações da plataforma utilizada:
 
